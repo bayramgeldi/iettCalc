@@ -1,13 +1,11 @@
 h1{
-	margin-top: 100px;
+	margin-top: 70px;
 	text-align: center;
 	color: #747474;
 	font: 60px/50px "Lucida Grande", Arial, Verdana, sans-serif;   
-
-
 }
 #hepsi {
-margin-top: 12%;
+margin-top: 1%;
 margin-left: 25%;
 }
 
@@ -22,7 +20,7 @@ div.img {
 }
 
 div.img:hover {
-    border: 1px solid #777;
+border: 1px solid #777;
 }
 
 div.img img {
@@ -47,4 +45,32 @@ div.desc {
   border:2px solid #2b6067;
   background-color: #2b6067;
   color: #ffffff;
+}
+.aktarma {
+	margin-top: 250px;
+	position: absolute;
+	margin-left: 42%;
+	font-family: sans-serif;
+
+}
+.aktarma input[type="text"] {
+  padding: 10px;
+  border: solid 1px #dcdcdc;
+  transition: box-shadow 0.3s, border 0.3s;
+  width: 170px;
+}
+.aktarma input[type="text"].focus {
+  border: solid 1px #707070;
+  box-shadow: 0 0 5px 1px #969696;
+}
+.aktarma button {
+	width: 100%;
+	background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
