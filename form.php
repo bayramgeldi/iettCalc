@@ -1,4 +1,5 @@
-<form method="post" attribute="post" action="disp_form.php">
+<div>
+	<form method="post" attribute="post" action="disp_form.php">
 <div id="hepsi">
 <label class="radio">
 <div class="img">
@@ -35,14 +36,10 @@
 </div>
 </label>
 
-<p class="aktarma">Aktarma sayısı:<br/>
+<label class="label">Aktarma sayısı:</label><br/>
 <input type="text" id="aktarma" name="aktarma"> <br>
 <button type="submit" name="answer" id="answer" value="answer">Calculate</button>
 
 </p>
-
-<p></p>
-
-
-
 </form>
+</div>
