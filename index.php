@@ -7,7 +7,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 </head>
 <body>
-<h1 class="alert alert-heading"></h1>
+<h1 class="alert alert-heading">Akbil türünü seçin:</h1>
 
 		<!-- <div><img src="images/anonim-karttur.png"><br>Anonim Kart</div>
 		<div><img src="images/mavi-kartlartur.png"><br>Mavi Kart</div>
