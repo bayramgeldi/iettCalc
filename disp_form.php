@@ -13,6 +13,7 @@
 <?php
 $first = $_POST['aktarma'];
 
+echo $first;
 //post'tan veri çekemiyor
 
 
